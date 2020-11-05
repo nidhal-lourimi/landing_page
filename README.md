@@ -3,7 +3,7 @@
 
 ## about the landing page:
 
-building a dynamically updating navigation bar based on the amount of the senction that is added to the page.
+building a dynamically updating navigation bar based on the number of the section that is added or removed from the page.
 with an active state for section and  the navigation items 
 
 
